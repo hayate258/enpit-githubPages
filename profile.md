@@ -5,10 +5,10 @@
 ## 好きなアーティスト：<br>
 ### caravan palace<br>
 ---------------------------------------------
-<img width="400px" alt="caravan palace" src="https://images-na.ssl-images-amazon.com/images/I/51S680RYT8L.jpg">
+<img width="400px" alt="caravan palace" src="https://images-na.ssl-images-amazon.com/images/I/51S680RYT8L.jpg"><br>
 jazzとエレクトロの融合であるelectroswingというジャンルで活躍するフランス出身のグループ<br>
 
 ### トップハムハット狂<br>
 ----------------------------------------------
-<img width="400px" alt="トップハムハット狂" src="https://pbs.twimg.com/profile_images/1150955020168228865/VSa1KadA_400x400.png">
-テクニカルなライミングとまるでスキャットみたいな歌い方がかっこいいラップしてるひと　聞け
+<img width="400px" alt="トップハムハット狂" src="https://pbs.twimg.com/profile_images/1150955020168228865/VSa1KadA_400x400.png"><br>
+テクニカルなライミングとまるでスキャットみたいな歌い方がかっこいいラップしてるひと　<span style="color; red;>"聞け</span><br>
